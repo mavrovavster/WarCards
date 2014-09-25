@@ -1,7 +1,7 @@
 /*
        Authors: Matt Vavro, Nate Henry, Zach Matthews, Braden Ritts
        Course: COMP 220, Computer Programming II
-       Date: 
+       Date: 25 September 2014
        Description: Simulates a two player card game of War 
 */
 
