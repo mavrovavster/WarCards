@@ -1,0 +1,5 @@
+-Our team has worked a total of 15 hous on card game project.
+-The majority of the difficulty for this project was cooridinating the code each separate person wrote.
+-Working as a group was a good expierence for all of us. It was nice having other group members
+ to go to if you had an error that you could not figure out, or for just the decrease in hours each person 
+put into the project since the work was distributed over four of us.
